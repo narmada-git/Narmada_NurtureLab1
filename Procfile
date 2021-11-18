@@ -1,1 +1,1 @@
-web: gunicorn app:Nurture_labs
+web:gunicorn app:nuturelab
